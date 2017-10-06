@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+div {
+    background-color: #4CAF50; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
+    
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    width: 100%
+    
+}
+
+.but {
+    
+    float: left; /* Float the buttons side by side */
+    width: 14%;
+    display: table;
+    vertical-align: top;
+   
+    
+    
+}
+.but2 {
+color: black;
+font-size: 20px;
+
+
+
+}
+
